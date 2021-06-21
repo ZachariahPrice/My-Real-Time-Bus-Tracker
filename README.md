@@ -10,4 +10,4 @@ To run the program, you have to download all the files within the folder to your
 
 **Future Updates**
 
-In the future, I do not intend to add any more cities in unless requested, as this was an exercise for my university course.
+In the future, I do not intend to add any more cities in unless requested.
