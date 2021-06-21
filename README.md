@@ -2,7 +2,7 @@
 
 **Hello and welcome to my Real Time Bus Tracker.**
 
-The real time bus tracker is a tracker that utilises an api provided by the city of poston and google maps provided by google. What the tracker does is track every public bus in downtown Boston. The buses change to either red or blue depending on what direction they are going. All this information is provided using an API provided by the city of Boston, so the information is quite accurate.
+The real time bus tracker is a tracker that utilises an api provided by the city of Boston and google maps provided by Google. What the tracker does is track every public bus in downtown Boston. The buses change to either red or blue depending on what direction they are going. All this information is provided using an API provided by the city of Boston.
 
 **How to run**
 
