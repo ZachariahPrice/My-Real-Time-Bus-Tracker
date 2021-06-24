@@ -1,4 +1,4 @@
-# My-Real-Time-Bus-Tracker
+# Zach Price - Real Time Bus Tracker
 
 **Hello and welcome to my Real Time Bus Tracker.**
 
